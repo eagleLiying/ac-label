@@ -1,7 +1,4 @@
-## app-label
-
----
-
+## ac-label
 
 ### 1. 安装
 
