@@ -1,5 +1,7 @@
 ## ac-label
 
+![image](./docs/assets/img/label.png)
+
 ### 1. 安装
 
 通过npm下载使用 `npm install ac-label --save-dev`
