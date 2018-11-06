@@ -14,6 +14,7 @@
 ```js
 import React, { Component } from 'react';
 import Label from 'ac-label';
+import 'ac-label/dist/index.css';
 
 class Demo1 extends Component {
     constructor(props) {
