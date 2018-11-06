@@ -1,13 +1,15 @@
 ## ac-label
 
+### 1. 效果
+
 ![image](./docs/assets/img/label.png)
 
-### 1. 安装
+### 2. 安装
 
 通过npm下载使用 `npm install ac-label --save-dev`
 
 
-### 2. 使用
+### 3. 使用
 
 ```js
 import React, { Component } from 'react';
@@ -68,7 +70,7 @@ class Demo1 extends Component {
 
 export default Demo1;
 ```
-### 3. API
+### 4. API
 
 参数 | 类型 | 说明 | 默认值
 ---|---|---|---
