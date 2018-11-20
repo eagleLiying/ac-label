@@ -1,20 +1,20 @@
-## ac-label
+## @yonyou/ac-label
 
 ### 1. 效果
 
-![image](./docs/assets/img/label.png)
+![image](https://raw.githubusercontent.com/eagleLiying/ac-label/HEAD/docs/assets/img/label.png)
 
 ### 2. 安装
 
-通过npm下载使用 `npm install ac-label --save-dev`
+通过npm下载使用 `npm install @yonyou/ac-label --save-dev`
 
 
 ### 3. 使用
 
 ```js
 import React, { Component } from 'react';
-import Label from 'ac-label';
-import 'ac-label/dist/index.css';
+import Label from '@yonyou/ac-label';
+import '@yonyou/ac-label/dist/index.css';
 
 class Demo1 extends Component {
     constructor(props) {
@@ -50,7 +50,7 @@ class Demo1 extends Component {
             activePro: !this.state.activePro
         })
     }
-    
+
     onClickStage() {
         this.setState({
             activeStage: !this.state.activeStage
