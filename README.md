@@ -6,7 +6,8 @@
 
 ### 2. 安装
 
-通过npm下载使用 `npm install @yonyou/ac-label --save-dev`
+通过ynpm下载使用 `npm install @yonyou/ac-label --save-dev`
+通过npm下载使用 `npm install ac-label --save-dev`
 
 
 ### 3. 使用
